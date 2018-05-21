@@ -1187,12 +1187,12 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     on: {
       "click": _vm.confirm
     }
-  }, [_vm._v("确定")]), _vm._v(" "), _c('button', {
+  }, [_vm._v("Confirm")]), _vm._v(" "), _c('button', {
     staticClass: "pure-button",
     on: {
       "click": _vm.cancel
     }
-  }, [_vm._v("取消")])])])
+  }, [_vm._v("Cancel")])])])
 },staticRenderFns: [function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('span', {
     staticClass: "f-input-m"
